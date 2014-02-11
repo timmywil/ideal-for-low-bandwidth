@@ -1,10 +1,5 @@
-
 # jQuery: Now Ideal For Low Bandwidth
 
-From the terminal, pop in:
+Timmy Willison
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+[@timmywil](https://twitter.com/timmywil)

@@ -6,7 +6,7 @@ module.exports = function(grunt) {
 				options: {
 					livereload: true
 				},
-				files: ['index.html', 'slides/*.md', 'slides/*.html', 'js/*.js', 'css/timmy.css']
+				files: ['index.html', 'slides/*.md', 'slides/*.html', 'js/*.js', 'css/_timmy.css']
 			},
 			index: {
 				files: ['templates/_index.html', 'templates/_section.html', 'slides/list.json'],
