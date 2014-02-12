@@ -39,6 +39,21 @@ body {
   color: #fdd;
 }
 
+.reveal blockquote {
+  color: white;
+  margin: 20px auto;
+  background: #0598FA;
+  -webkit-box-shadow: #000 0 0 10px;
+  box-shadow: #000 0 0 10px;
+  border-radius: 40px;
+  padding: 30px 0;
+  margin-bottom: 50px;
+}
+
+.reveal blockquote p {
+  margin: 0;
+}
+
 .reveal table {
   width: 100%;
   background: white;
@@ -213,6 +228,11 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #268bd2;
+}
+
+.reveal .caption {
+  display: inline-block;
+  margin-left: 300px;
 }
 
 /*# sourceMappingURL=timmy.css.map */

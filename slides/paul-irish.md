@@ -1,1 +1,1 @@
-![Paul Irish](images/paul.jpg)
+![Paul Irish](images/paul-irish.jpg)
