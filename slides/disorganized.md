@@ -1,3 +1,3 @@
-## I'm So Disorganized
+## I'm So Organized!
 
 ![Disorganized](images/disorganized.gif)
