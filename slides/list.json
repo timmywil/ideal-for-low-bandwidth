@@ -1,5 +1,6 @@
 [
     "index.md",
+    "me.md",
     "my-talk-doesnt-matter.md",
     "jquery-file-size.md",
     "mathias-size-quote.md",
@@ -24,6 +25,5 @@
     "excel.md",
     "future-fragmentation.md",
     "references.md",
-    "tools-not-rules.md",
-    "questions.md"
+    "tools-not-rules.md"
 ]

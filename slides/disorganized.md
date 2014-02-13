@@ -1,1 +1,3 @@
-![Disorganized](images/disorganized.jpg)
+## Disorganization
+
+![Disorganized](images/disorganized.gif)
