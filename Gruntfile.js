@@ -32,6 +32,9 @@ module.exports = function(grunt) {
 			}
 		},
 		bowercopy: {
+			options: {
+				clean: true
+			},
 			css: {
 				options: {
 					destPrefix: 'css'
@@ -62,7 +65,7 @@ module.exports = function(grunt) {
 					'highlight.js': 'reveal.js/plugin/highlight/highlight.js',
 					'zoom.js': 'reveal.js/plugin/zoom-js/zoom.js',
 					'search.js': 'reveal.js/plugin/search/search.js',
-					'notes.js': 'reveal.js/plugin/notes/notes.js',
+					'notes': 'reveal.js/plugin/notes',
 					'remotes.js': 'reveal.js/plugin/remotes/remotes.js'
 				}
 			}

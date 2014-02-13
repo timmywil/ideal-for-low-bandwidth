@@ -1,6 +1,6 @@
 ##  Asset Sizes
 
-Statistics for 4 billion websites
+4 billion websites
 
 | Type       | Average Size (kb) |
 | -----------|:-----------------:|
